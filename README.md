@@ -42,5 +42,5 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"> Yarn
 
   <div align="center">
-<img src="https://c.tenor.com/7h-8OYbg-MUAAAAC/ps4-games.gif" width="120px" height="120px">
+<img src="https://c.tenor.com/7h-8OYbg-MUAAAAC/ps4-games.gif" width="210px" height="210px">
   </div>
