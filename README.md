@@ -3,7 +3,7 @@
 
 - 💻 I'm student at the ETEC (Escola Técnica de Embu // Technical School - Embu), studying Systems Development
 - 🔥 I really like Javascript and your frameworks
-- 🎮 I love so much videogames
+- 💘 In love with front-end development
 <!---======================================================================================================================================================--->
 <br><br>
 
