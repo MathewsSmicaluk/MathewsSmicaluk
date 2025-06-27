@@ -41,11 +41,3 @@
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px"> &nbsp;&nbsp; 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px">
-
----
-
-<!---=============================== 🎮 Personal Touch ===============================--->
-<div align="center">
-  <img src="https://c.tenor.com/7h-8OYbg-MUAAAAC/ps4-games.gif" width="210px" height="210px" />
-  <p><i>"Building user experiences that feel as good as gaming: fast, fun and intuitive."</i></p>
-</div>
